@@ -1,0 +1,20 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Methods}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Preprocessing}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Baselines}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Autoencoders}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Structure}{section.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.4.1}{Single vs. Multiple Layer Autoencoder}{subsection.2.4}% 7
+\BOOKMARK [2][-]{subsection.2.5}{Implementation}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.6}{Training}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.7}{Visualization}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.8}{Evaluation}{section.2}% 11
+\BOOKMARK [2][-]{subsection.2.9}{Variational Approach}{section.2}% 12
+\BOOKMARK [1][-]{section.3}{Results}{}% 13
+\BOOKMARK [2][-]{subsection.3.1}{T-SNE}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.2}{PCA and T-SNE}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.3}{Single Layer Autoencoder and T-SNE}{section.3}% 16
+\BOOKMARK [2][-]{subsection.3.4}{Multilayer Autoencoder and T-SNE}{section.3}% 17
+\BOOKMARK [1][-]{section.4}{Discussion}{}% 18
+\BOOKMARK [1][-]{section.5}{Conclusion}{}% 19
+\BOOKMARK [1][-]{section.6}{Appendix}{}% 20
